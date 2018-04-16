@@ -5,3 +5,8 @@ print(a+b)
 
 nome=input("Qual seu nome ?")
 print(f"Olá, {nome}")
+idade=int(input("Qual a idade ?"))
+
+
+
+print(idade)
